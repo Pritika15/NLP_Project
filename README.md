@@ -1,2 +1,3 @@
 # NLP_Project
- Topic Modelling using Word Embeddings
+ Sentimental analysis and topic modelling of tweets related to climate change.
+Labelling of the tweets have been performed using VADER.
